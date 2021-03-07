@@ -8,7 +8,7 @@ Build OpenWrt using GitHub Actions
 
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
-[编译结果发布页](https://github.com/ixiaan/longhu-lede/releases)
+[编译结果发布页](https://github.com/ixiaan/sekisui-lede/releases)
 
 
 
