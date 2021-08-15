@@ -79,7 +79,8 @@ jobs:
         cd openwrt/package/lean
         rm -rf luci-app-xlnetacc/
         # git clone https://github.com/garypang13/luci-app-xlnetacc.git
-        git clone https://github.com/small-5/luci-app-xlnetacc.git
+        git clone https://github.com/kiddin9/luci-app-xlnetacc.git
+        # git clone https://github.com/small-5/luci-app-xlnetacc.git
         
 
     - name: Load custom configuration
