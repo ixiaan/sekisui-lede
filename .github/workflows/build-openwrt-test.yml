@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt Sekisui-superXLnet
+name: Build OpenWrt Sekisui-BetaTest
 
 on:
   repository_dispatch:
